@@ -20,8 +20,8 @@ idk how i'll come back to this
 ### Summary
 | Name  | Role | Contributions |
 | :-------------: | :-------------: | ------------- |
-| Martin Gallois | Software Developer  | <ul><li>documentation</li><li>powepoint</li><li>research</li></ul> |
-| Karim Jabbour | Software Developer  | inprogress |
+| Martin Gallois | Software Developer  | <ul><li>powepoint</li><li>research</li></ul> |
+| Karim Jabbour | Software Developer  | <ul><li>CNN model</li></ul> |
 | Yinan Wang | Software Developer  | <ul><li>visualization</li></ul> |
 | Yichen Wu | Software Developer  | <ul><li>website</li></ul> |
 | Siqi Zhang | Documentation Lead  | <ul><li>documentation</li><li>powepoint</li><li>research</li></ul>|
