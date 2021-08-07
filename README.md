@@ -15,7 +15,7 @@ We are a 5 member team participating the 2021 McGill McMedHacks from various bac
 | Martin Gallois | [MartinGALLOIS](https://github.com/MartinGALLOIS?fbclid=IwAR1Bzrqgvs0D_Znk72tqHW4RRW3j--UQi03sEIBCpiXFVC6CceBPrBiy4MA)  | inprogress |
 | Karim Jabbour | Content Cell  | inprogress |
 | Yinan Wang | [Yinan2](https://github.com/Yinan2?fbclid=IwAR1D6W03oxjX3rh9HjmwYjgN5YICFlua5fgP0pWcjXMsl0qlQose8ZKxEa0)  | inprogress |
-| Yichen Wu | [yichenemma](https://github.com/yichenemma)  | inprogress |
+| Yichen Wu | [yichenemma](https://github.com/yichenemma)  | Sorware Engineering Student at McGill University |
 | Siqi Zhang | [SiqiZhang6](https://github.com/SiqiZhang6)  | first year CS student in U of T |
 
 ## How to run the application?
