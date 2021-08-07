@@ -13,9 +13,9 @@ We are a 5 member team participating the 2021 McGill McMedHacks from various bac
 | Name  | Github | short description |
 | :-------------: | :-------------: | :-------------: |
 | Martin Gallois | [MartinGALLOIS](https://github.com/MartinGALLOIS?fbclid=IwAR1Bzrqgvs0D_Znk72tqHW4RRW3j--UQi03sEIBCpiXFVC6CceBPrBiy4MA)  | inprogress |
-| Karim Jabbour | Content Cell  | inprogress |
+| Karim Jabbour | [KarimJabbour](https://github.com/KarimJabbour?fbclid=IwAR03VJz32ZU3bbHFV2U6VTnN94UoR2nAL5hqGoAQHJRe3VHx9dslrOz61F4)  | Concordia University U2 Bachelors in COmputer Science (BSComp) |
 | Yinan Wang | [Yinan2](https://github.com/Yinan2?fbclid=IwAR1D6W03oxjX3rh9HjmwYjgN5YICFlua5fgP0pWcjXMsl0qlQose8ZKxEa0)  | inprogress |
-| Yichen Wu | [yichenemma](https://github.com/yichenemma)  | Sorware Engineering Student at McGill University |
+| Yichen Wu | [yichenemma](https://github.com/yichenemma)  | McGill U2 undergrad in software engineering |
 | Siqi Zhang | [SiqiZhang6](https://github.com/SiqiZhang6)  | first year CS student in U of T |
 
 ## How to run the application?
