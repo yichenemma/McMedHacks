@@ -18,23 +18,6 @@ We are a 5 member team participating the 2021 McGill McMedHacks from various bac
 | Yichen Wu | [yichenemma](https://github.com/yichenemma)  | McGill U2 undergrad in Software Engineering |
 | Siqi Zhang | [SiqiZhang6](https://github.com/SiqiZhang6)  | University of Toronto U1 undergrad in Computer Science |
 
-## How to run the application?
-To lunch the websit. Run the app.py through this command in the terminal. \
-*_Note: The porgram might requires installation of some packages and libraries_*
-> python app.py
-
-The similar result should be produced as following
-
-> Dash is running on http://127.0.0.1:8050/ \
-> *Serving Flask app "app" (lazy loading)\
-> *Environment: production\
-> WARNING: This is a development server. Do not use it in a production deployment.\
-> Use a production WSGI server instead.\
-> *Debug mode: on
-
-Click on the http link generated to launch the program
-<br>
-
 ## Overview Tables
 ### Summary
 | Name  | Role | Contributions |
