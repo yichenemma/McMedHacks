@@ -8,7 +8,7 @@ We are a 5 member team participating the 2021 McGill McMedHacks from various bac
 | :-------------: | :-------------: | :-------------: |
 | Martin Gallois | Content Cell  | inprogress |
 | Karim Jabbour | Content Cell  | inprogress |
-| Yinan Wang | Content Cell  | inprogress |
+| Yinan Wang | [Yinan2](https://github.com/Yinan2?fbclid=IwAR1D6W03oxjX3rh9HjmwYjgN5YICFlua5fgP0pWcjXMsl0qlQose8ZKxEa0)  | inprogress |
 | Yichen Wu | [yichenemma](https://github.com/yichenemma)  | inprogress |
 | Siqi Zhang | [SiqiZhang6](https://github.com/SiqiZhang6)  | inprogress |
 
@@ -24,5 +24,7 @@ idk how i'll come back to this
 | Karim Jabbour | Software Developer  | inprogress |
 | Yinan Wang | Software Developer  | -visualization |
 | Yichen Wu | Software Developer  | -website construction |
-| Siqi Zhang | Documentation Lead  | -documentation -powerpoint -research|
+| Siqi Zhang | Documentation Lead  | -documentation 
+-powerpoint 
+-research|
 <br>
