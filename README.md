@@ -19,7 +19,7 @@ idk how i'll come back to this
 ## Overview Tables
 ### Summary
 | Name  | Role | Contributions |
-| :-------------: | :-------------: | :-------------: |
+| :-------------: | :-------------: | :------------- |
 | Martin Gallois | Software Developer  | <ul><li>documentation</li><li>powepoint</li><li>research</li></ul> |
 | Karim Jabbour | Software Developer  | inprogress |
 | Yinan Wang | Software Developer  | <ul><li>visualization</li></ul> |
