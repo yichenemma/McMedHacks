@@ -13,7 +13,8 @@ We are a 5 member team participating the 2021 McGill McMedHacks from various bac
 | Siqi Zhang | [SiqiZhang6](https://github.com/SiqiZhang6)  | inprogress |
 
 ## How to run the application?
-idk how i'll come back to this 
+To lunch the websit. Run the app.py file through this command in the terminal
+> python app.py
 <br>
 
 ## Overview Tables
