@@ -16,7 +16,7 @@ We are a 5 member team participating the 2021 McGill McMedHacks from various bac
 | Karim Jabbour | Content Cell  | inprogress |
 | Yinan Wang | [Yinan2](https://github.com/Yinan2?fbclid=IwAR1D6W03oxjX3rh9HjmwYjgN5YICFlua5fgP0pWcjXMsl0qlQose8ZKxEa0)  | inprogress |
 | Yichen Wu | [yichenemma](https://github.com/yichenemma)  | inprogress |
-| Siqi Zhang | [SiqiZhang6](https://github.com/SiqiZhang6)  | inprogress |
+| Siqi Zhang | [SiqiZhang6](https://github.com/SiqiZhang6)  | first year CS student in U of T |
 
 ## How to run the application?
 To lunch the websit. Run the app.py through this command in the terminal. \
@@ -41,7 +41,7 @@ Click on the http link generated to launch the program
 | :-------------: | :-------------: | ------------- |
 | Martin Gallois | Software Developer  | <ul><li>powepoint</li><li>research</li></ul> |
 | Karim Jabbour | Software Developer  | <ul><li>CNN model</li></ul> |
-| Yinan Wang | Software Developer  | <ul><li>visualization</li></ul> |
+| Yinan Wang | Software Developer  | <ul><li>visualization</li><li>Grad-CAM</li></ul> |
 | Yichen Wu | Software Developer  | <ul><li>website</li></ul> |
 | Siqi Zhang | Documentation Lead  | <ul><li>documentation</li><li>powepoint</li><li>research</li></ul>|
 <br>
