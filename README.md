@@ -20,9 +20,9 @@ idk how i'll come back to this
 ### Summary
 | Name  | Role | Contributions |
 | :-------------: | :-------------: | :-------------: |
-| Martin Gallois | Software Developer  | inprogress |
+| Martin Gallois | Software Developer  | -powerpoint |
 | Karim Jabbour | Software Developer  | inprogress |
-| Yinan Wang | Software Developer  | inprogress |
-| Yichen Wu | Software Developer  | inprogress |
-| Siqi Zhang | Documentation Lead  | inprogress |
+| Yinan Wang | Software Developer  | -visualization |
+| Yichen Wu | Software Developer  | -website construction |
+| Siqi Zhang | Documentation Lead  | -documentation -powerpoint -research|
 <br>
