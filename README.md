@@ -5,13 +5,12 @@ The coronavirus pandemic in 2020 continues to infect more than 500 000 people da
 ## About us
 We are a 5 member team participating the 2021 McGill McMedHacks from various backgrounds <br>
 | Name  | Github | short description |
-| ------------- | ------------- | ------------- |
+| :-------------: | :-------------: | :-------------: |
 | Martin Gallois | Content Cell  | inprogress |
 | Karim Jabbour | Content Cell  | inprogress |
 | Yinan Wang | Content Cell  | inprogress |
 | Yichen Wu | [yichenemma](https://github.com/yichenemma)  | inprogress |
 | Siqi Zhang | [SiqiZhang6](https://github.com/SiqiZhang6)  | inprogress |
-<br>
 
 ## How to run the application?
 idk how i'll come back to this 
@@ -20,7 +19,7 @@ idk how i'll come back to this
 ## Overview Tables
 ### Summary
 | Name  | Role | Contributions |
-| ------------- | ------------- | ------------- |
+| :-------------: | :-------------: | :-------------: |
 | Martin Gallois | Software Developer  | inprogress |
 | Karim Jabbour | Software Developer  | inprogress |
 | Yinan Wang | Software Developer  | inprogress |
