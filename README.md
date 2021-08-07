@@ -4,9 +4,8 @@ The coronavirus pandemic in 2020 continues to infect more than 500 000 people da
 
 Our project consisted of two parts. <br>
 - First, using a CNN, our project aims at determining if X-ray images represent healthy patients or Covid-19 patients and propose this innovative method of Covid-19 detection.
-- Second, we used Grad-CAM to determine which area of the CXR is essential for analyses.<br>
-- George Washington
-- John Adams
+- Second, we used Grad-CAM to determine which area of the CXR is essential for analyses. <br>
+
 By the end of this project, we were able to determine whether a patient has COVID-19 with an accuracy of (data), found the key area of analysis for the result which is (data), and have made a website for better user experience. (this is a temperary link) [Covid dectection website](https://colab.research.google.com/drive/1ynLocwqY2qQDmc8wiGLGZIG-zXGdPihy?usp=sharing&fbclid=IwAR3OSzlqmsstiniA3Nd_5DYmYwigAnuSTuZKZf449ZZNzB8cKn11cq3gxRM#scrollTo=rOp3m4ZMrLoG) <br>
 
 ## About us
