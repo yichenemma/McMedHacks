@@ -14,8 +14,7 @@ We are a 5 member team participating the 2021 McGill McMedHacks from various bac
 | :-------------: | :-------------: | :-------------: |
 | Martin Gallois | [MartinGALLOIS](https://github.com/MartinGALLOIS?fbclid=IwAR1Bzrqgvs0D_Znk72tqHW4RRW3j--UQi03sEIBCpiXFVC6CceBPrBiy4MA)  | McGill undergrad in Physics |
 | Karim Jabbour | [KarimJabbour](https://github.com/KarimJabbour?fbclid=IwAR03VJz32ZU3bbHFV2U6VTnN94UoR2nAL5hqGoAQHJRe3VHx9dslrOz61F4)  | Concordia University U2 Bachelors in Computer Science (BSComp) |
-| Yinan Wang | [Yinan2](https://github.com/Yinan2?fbclid=IwAR1D6W03oxjX3rh9HjmwYjgN5YICFlua5fgP0pWcjXMsl0qlQose8ZKxEa0)  | McGill Master-thesis
- in Computer vision and image processing |
+| Yinan Wang | [Yinan2](https://github.com/Yinan2?fbclid=IwAR1D6W03oxjX3rh9HjmwYjgN5YICFlua5fgP0pWcjXMsl0qlQose8ZKxEa0)  | McGill Master-thesis in Computer vision and image processing |
 | Yichen Wu | [yichenemma](https://github.com/yichenemma)  | McGill U2 undergrad in Software Engineering |
 | Siqi Zhang | [SiqiZhang6](https://github.com/SiqiZhang6)  | University of Toronto U1 undergrad in Computer Science |
 
