@@ -17,7 +17,8 @@ By the end of this project, we were able to determine whether a patient has COVI
 A short report on this project can be found [here](https://github.com/yichenemma/McMedHacks/blob/main/report.pdf)
 
 ## Presentation
-A 5min presentation is prepared. Access the slides from [here](https://github.com/yichenemma/McMedHacks/blob/main/report.pdf)
+A 5min presentation is prepared. The recording of the presentation can be accessed from [here](https://www.youtube.com/watch?v=uu2SUAXtGzo)<br>
+Access the slides from [here](https://github.com/yichenemma/McMedHacks/blob/main/report.pdf)
 
 ## Code
 The CNN model and visualization code is developed in jupiter notebook. Access the code from [here](https://jupyter.mcmedhacks2021.calculquebec.cloud/)
