@@ -1,4 +1,9 @@
-# McMedHacks project by CaffineOverflow
+
+<p float="left">
+  <h1>McMedHacks project by CaffineOverflow</>
+  <img src="https://github.com/yichenemma/McMedHacks/blob/main/c.jpg" width="100" />
+</p>
+
 ## Project overview
 The coronavirus pandemic in 2020 , also known as COVID-19, continues to infect more than 500,000 people daily even after the widespread vaccination against it. The common method used to detect COVID-19 is PCR tests, however some facilities might not have enough equipment and trained professionals for the amount of tests needed. Therefore our team proposes to detect COVID-19 through chest X-rays (CXR), which can minimize transportation of patients with portable radiography units which are easy to disinfect. Our project consisted of two parts. <br>
 
