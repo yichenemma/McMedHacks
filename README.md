@@ -8,6 +8,15 @@ Our project consisted of two parts. <br>
 
 By the end of this project, we were able to determine whether a patient has COVID-19 with an accuracy of (data), found the key area of analysis for the result which is (data), and have made a website for better user experience. [Covid dectection website](https://caffeineoverflow-covid.herokuapp.com/?fbclid=IwAR0ktxanZL_H49WfDNGHi6y1RnqusZzZvuxV-tHPwNvASIJUa8hx8AOvwkE) <br>
 
+## Report
+A short report on this project can be found [here](https://github.com/yichenemma/McMedHacks/blob/main/report.pdf)
+
+## Presentation
+A 5min presentation is prepared. Access the slides from [here](https://github.com/yichenemma/McMedHacks/blob/main/report.pdf)
+
+## Code
+The CNN model and visualization code is developed in jupiter notebook. Access the code from (here)[https://jupyter.mcmedhacks2021.calculquebec.cloud/]
+
 ## About us
 We are a 5 member team participating the 2021 McGill McMedHacks from various backgrounds <br>
 | Name  | Github | Short Description |
@@ -29,8 +38,3 @@ We are a 5 member team participating the 2021 McGill McMedHacks from various bac
 | Siqi Zhang | Documentation Lead  | <ul><li>documentation</li><li>powepoint</li><li>research</li></ul>|
 <br>
 
-## Report
-A short report on this project can be found [here](https://github.com/yichenemma/McMedHacks/blob/main/report.pdf)
-
-## Presentation
-A 5min presentation is prepared. Access the slides from [here](https://github.com/yichenemma/McMedHacks/blob/main/report.pdf)
