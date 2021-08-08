@@ -28,3 +28,9 @@ We are a 5 member team participating the 2021 McGill McMedHacks from various bac
 | Yichen Wu | Software Developer  | <ul><li>website</li></ul> |
 | Siqi Zhang | Documentation Lead  | <ul><li>documentation</li><li>powepoint</li><li>research</li></ul>|
 <br>
+
+## Report
+A short report on this project can be found [here](https://github.com/yichenemma/McMedHacks/blob/main/report.pdf)
+
+## Presentation
+A 5min presentation is prepared. Access the slides from [here](https://github.com/yichenemma/McMedHacks/blob/main/report.pdf)
