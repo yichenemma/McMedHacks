@@ -15,7 +15,7 @@ A short report on this project can be found [here](https://github.com/yichenemma
 A 5min presentation is prepared. Access the slides from [here](https://github.com/yichenemma/McMedHacks/blob/main/report.pdf)
 
 ## Code
-The CNN model and visualization code is developed in jupiter notebook. Access the code from (here)[https://jupyter.mcmedhacks2021.calculquebec.cloud/]
+The CNN model and visualization code is developed in jupiter notebook. Access the code from [here](https://jupyter.mcmedhacks2021.calculquebec.cloud/)
 
 ## About us
 We are a 5 member team participating the 2021 McGill McMedHacks from various backgrounds <br>
