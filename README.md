@@ -26,20 +26,20 @@ The CNN model and visualization code is developed in jupiter notebook. Access th
 We are a 5 member team participating the 2021 McGill McMedHacks from various backgrounds <br>
 | Name  | Github | Short Description |
 | :-------------: | :-------------: | :-------------: |
-| Martin Gallois | [MartinGALLOIS](https://github.com/MartinGALLOIS?fbclid=IwAR1Bzrqgvs0D_Znk72tqHW4RRW3j--UQi03sEIBCpiXFVC6CceBPrBiy4MA)  | McGill undergrad in Physics |
-| Karim Jabbour | [KarimJabbour](https://github.com/KarimJabbour?fbclid=IwAR03VJz32ZU3bbHFV2U6VTnN94UoR2nAL5hqGoAQHJRe3VHx9dslrOz61F4)  | Concordia University U2 Bachelors in Computer Science (BSComp) |
-| Yinan Wang | [Yinan2](https://github.com/Yinan2?fbclid=IwAR1D6W03oxjX3rh9HjmwYjgN5YICFlua5fgP0pWcjXMsl0qlQose8ZKxEa0)  | McGill Master-thesis in Computer vision and image processing |
-| Yichen Wu | [yichenemma](https://github.com/yichenemma)  | McGill U2 undergrad in Software Engineering |
-| Siqi Zhang | [SiqiZhang6](https://github.com/SiqiZhang6)  | University of Toronto U1 undergrad in Computer Science |
+| Martin Gallois | [MartinGALLOIS](https://github.com/MartinGALLOIS?fbclid=IwAR1Bzrqgvs0D_Znk72tqHW4RRW3j--UQi03sEIBCpiXFVC6CceBPrBiy4MA)  | McGill undergrad in Physics (BS Pysics)|
+| Karim Jabbour | [KarimJabbour](https://github.com/KarimJabbour?fbclid=IwAR03VJz32ZU3bbHFV2U6VTnN94UoR2nAL5hqGoAQHJRe3VHx9dslrOz61F4)  | Concordia University U2 Bachelors in Computer Science (BS Computer Science) |
+| Yinan Wang | [Yinan2](https://github.com/Yinan2?fbclid=IwAR1D6W03oxjX3rh9HjmwYjgN5YICFlua5fgP0pWcjXMsl0qlQose8ZKxEa0)  | McGill Master-thesis in Computer vision and image processing (MSc Electrical Engineering) |
+| Yichen Wu | [yichenemma](https://github.com/yichenemma)  | McGill U2 undergrad in Software Engineering (BS Software Engineering) |
+| Siqi Zhang | [SiqiZhang6](https://github.com/SiqiZhang6)  | University of Toronto U1 undergrad in Computer Science (BS Computer Science)|
 
 ## Overview Tables
 ### Summary
 | Name  | Role | Contributions |
 | :-------------: | :-------------: | ------------- |
-| Martin Gallois | Software Developer  | <ul><li>powepoint</li><li>research</li></ul> |
-| Karim Jabbour | Software Developer  | <ul><li>CNN model</li></ul> |
-| Yinan Wang | Software Developer  | <ul><li>visualization</li><li>Grad-CAM</li></ul> |
-| Yichen Wu | Software Developer  | <ul><li>website</li></ul> |
-| Siqi Zhang | Documentation Lead  | <ul><li>documentation</li><li>powepoint</li><li>research</li></ul>|
+| Martin Gallois | Software Developer  | <ul><li>powepoint</li><li>research</li><li>report</li><li>presentation</li></ul> |
+| Karim Jabbour | Software Developer  | <ul><li>CNN model</li><li>report</li><li>presentation</li></ul> |
+| Yinan Wang | Software Developer  | <ul><li>visualization</li><li>Grad-CAM</li><li>report</li><li>presentation</li></ul> |
+| Yichen Wu | Software Developer  | <ul><li>website</li><li>report</li><li>presentation</li></ul> |
+| Siqi Zhang | Documentation Lead  | <ul><li>documentation</li><li>powepoint</li><li>research</li><li>report</li><li>presentation</li></ul>|
 <br>
 
