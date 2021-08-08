@@ -10,7 +10,7 @@ By the end of this project, we were able to determine whether a patient has COVI
 
 ## About us
 We are a 5 member team participating the 2021 McGill McMedHacks from various backgrounds <br>
-| Name  | Github | short description |
+| Name  | Github | Short Description |
 | :-------------: | :-------------: | :-------------: |
 | Martin Gallois | [MartinGALLOIS](https://github.com/MartinGALLOIS?fbclid=IwAR1Bzrqgvs0D_Znk72tqHW4RRW3j--UQi03sEIBCpiXFVC6CceBPrBiy4MA)  | McGill undergrad in Physics |
 | Karim Jabbour | [KarimJabbour](https://github.com/KarimJabbour?fbclid=IwAR03VJz32ZU3bbHFV2U6VTnN94UoR2nAL5hqGoAQHJRe3VHx9dslrOz61F4)  | Concordia University U2 Bachelors in Computer Science (BSComp) |
