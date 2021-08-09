@@ -12,6 +12,7 @@ Our project consisted of two parts. <br>
 -  Second, we used Gradient-weighted Class Activation Mapping (Grad-CAM) to determine which area of the CXR is essential for analyses. <br>
 
 By the end of this project, we were able to determine whether a patient has COVID-19 with an accuracy of (data), found the key area of analysis for the result which is (data), and have made a website for better user experience. [Covid dectection website](https://caffeineoverflow-covid.herokuapp.com/?fbclid=IwAR0ktxanZL_H49WfDNGHi6y1RnqusZzZvuxV-tHPwNvASIJUa8hx8AOvwkE) <br>
+The full submission on the dev post can be accessed through [here](https://devpost.com/software/detection-of-covid-19-using-cnns-and-chest-x-rays)
 
 ## Report
 A short report on this project can be found [here](https://github.com/yichenemma/McMedHacks/blob/main/report.pdf)
